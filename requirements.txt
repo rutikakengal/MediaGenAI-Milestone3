@@ -1,0 +1,8 @@
+torch
+transformers
+sounddevice
+numpy
+scipy
+soundfile
+whisper
+ffmpeg-python
